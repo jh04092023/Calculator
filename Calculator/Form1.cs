@@ -28,6 +28,7 @@ namespace Calculator
         public Form1()
         {
             InitializeComponent();
+            var temp = 1;
         }
 
         private void Form1_Load(object sender, EventArgs e)
